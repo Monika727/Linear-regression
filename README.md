@@ -1,2 +1,2 @@
 # Linear-regression
-Applying linear regression on Boston Dataset
+Applying linear regression with SGD on Boston House Prices Dataset
